@@ -1,2 +1,2 @@
-# Reys Online Store
-Rey wants an e-commerce store without using Magento
+# Online Store
+Rey wants an e-commerce store because we did not like using Magento
