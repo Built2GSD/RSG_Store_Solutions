@@ -9,3 +9,4 @@ Source of retail knowledge from involved contributors exceeds 20 years, which in
 
 
 Needed to put this somewhere.  Add weather forecast feature for displays and recommendations for store customer. Heat warning or snow storms provide opportunities for those who are prepared
+Preview?
