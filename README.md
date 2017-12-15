@@ -1,12 +1,2 @@
-Design:
-  A) Frontend to be Angular2 and Android
-  B) Backend will be SQL
-  C) Hosting of DB expected to be on Azure
-  
-User Story: Primary outlook is from the individual store with local control.
-
-Source of retail knowledge from involved contributors exceeds 20 years, which includes multiple stores and businesses.
-
-
-Needed to put this somewhere.  Add weather forecast feature for displays and recommendations for store customer. Heat warning or snow storms provide opportunities for those who are prepared
-Preview?
+<h1>RSG Store Solutions<h1>
+<p>Wouldn't it be nice if the people who built your store inventory actually had to work in a store? Well, that happened, so the inventory is designed to make thing easier, not waste your time with more systems to work in.</p>
