@@ -3,7 +3,7 @@ class MyForm extends React.Component {
     super(props);
     this.state = {
       username: '',
-      age: null,
+      founded: null,
     };
   }
   myChangeHandler = (event) => {
@@ -14,17 +14,17 @@ class MyForm extends React.Component {
   render() {
     return (
       <form>
-      <h1>Hello {this.state.username} {this.state.age}</h1>
-      <p>Enter your name:</p>
+      <h1>Welcome {this.state.username} {this.state.founded}</h1>
+      <p>Enter your business name:</p>
       <input
         type='text'
         name='username'
         onChange={this.myChangeHandler}
       />
-      <p>Enter your age:</p>
+      <p>Enter your business started:</p>
       <input
         type='text'
-        name='age'
+        name='founded'
         onChange={this.myChangeHandler}
       />
       </form>
