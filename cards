@@ -46,6 +46,12 @@
         <p class="card-text">Some text inside the sixth card</p>
       </div>
     </div>
+	
+    <div class="card bg-info">
+      <div class="card-body text-center">
+        <p class="card-text">Some text inside the seventh card</p>
+      </div>
+    </div>
   </div>
 </div>
 
