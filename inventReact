@@ -1,0 +1,3 @@
+function Inventor() {
+  return <h2>Hi, I am also an Inventor!</h2>;
+}
