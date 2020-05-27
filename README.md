@@ -6,4 +6,5 @@ Illness mitigation systems and various sanitation methods and equipment.
   </p>
   <p>Software based incident tracking methods.</p>
 <p>Shelf Designs for automated stores</p>
-<p>RetMo, MemInRet?</p>
+<p>RetMo, MemInRet? </p>
+<p>Hosted Market?</p>
