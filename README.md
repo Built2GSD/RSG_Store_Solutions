@@ -8,3 +8,4 @@ Illness mitigation systems and various sanitation methods and equipment.
 <p>Shelf Designs for automated stores</p>
 <p>RetMo, MemInRet? </p>
 <p>Hosted Market?</p>
+<p>efficiency mapping</p>
