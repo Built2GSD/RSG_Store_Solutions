@@ -8,9 +8,10 @@ Illness mitigation systems and various sanitation methods and equipment.
 <p>Shelf Designs for automated stores</p>
 <p>RetMo, MemInRet? </p>
 <p>Hosted Market?</p>
-<p>efficiency mapping</p>
+<p>Efficiency mapping</p>
 <ul>
   <li>Services
   </li>
+<li>Base Map <p>good for efficient use of multiple platforms in robotics</p></li>
   
   </ul>
