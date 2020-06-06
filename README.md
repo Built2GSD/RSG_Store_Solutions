@@ -12,6 +12,6 @@ Illness mitigation systems and various sanitation methods and equipment.
 <ul>
   <li>Services
   </li>
-<li>Base Map <p>good for efficient use of multiple platforms in robotics</p></li>
+  <li>Base Map <p><li>good for efficient use of multiple platforms in robotics</p></li></li>
   
   </ul>
