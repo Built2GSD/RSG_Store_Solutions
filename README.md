@@ -18,4 +18,4 @@ Illness mitigation systems and various sanitation methods and equipment.
 <p>Name found. Will purchase domain name then post.
  </p>
 <li>Sections include services, product, marketing, and charities. </li>
-<li>Marketing via charities.</li>
+<li>Marketing via charities and organizations.</li>
