@@ -1,4 +1,4 @@
-<h1>RM(Retail Memories) Store Solutions</h1> <i>Please rename</i>
+<h1>RM(Retail Memories) Store Solutions</h1> 
 <p>Providing websites and softeware solutions.</p>
 <p>This is a platform. Javascript Websites an applications built with local first preference. </p>
 <p>
