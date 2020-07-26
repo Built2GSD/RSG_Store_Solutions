@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
+function App() {A privacy reminder from YouTube, a Google company
   return (
     <div className="App">
       <header className="App-header">
