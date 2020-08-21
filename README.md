@@ -1,4 +1,4 @@
-<h1>This will become something else.</h1> 
+<h1>This will become new.</h1> 
 <p>Providing websites and softeware solutions.</p>
 <p>This is a platform. Javascript Websites an applications built with local first preference. </p>
 <p>
