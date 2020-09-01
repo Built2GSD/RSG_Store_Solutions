@@ -1,6 +1,6 @@
 <h1>This changes.</h1> 
-<p>Providing websites and softeware solutions.</p>
-<p> Javascript Websites an applications built with local first preference. </p>
+<p>Providing websites and software solutions.</p>
+<p> Javascript Websites and applications built with local first preference. </p>
 <p>
 Illness mitigation systems and various sanitation methods and equipment.
   </p>
