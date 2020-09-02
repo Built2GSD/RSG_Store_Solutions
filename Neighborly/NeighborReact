@@ -17,9 +17,9 @@ class Garage extends React.Component {
     return (
       <div>
       <h1>It has all changed now.</h1>
-      <Inventor />
+      
       </div>
-    );
+    );update
   }
 }
 
