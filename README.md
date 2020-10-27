@@ -22,8 +22,4 @@ Illness mitigation systems and various sanitation methods and equipment.
 <h2>Should this go to built2gsd?</h2>
 <h3>B2GetSolved</h3>
 parts:
-<script>
-import { createStore } from 'redux'
-import todoApp from './reducers'
-const store = createStore(todoApp)
-  </script>
+Requests of apps for map and equipment checklist. 
